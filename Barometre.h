@@ -8,7 +8,7 @@
 #ifndef BAROMETRE_BMP180_BMP180_H_
 #define BAROMETRE_BMP180_BMP180_H_
 
-#include "BMP180.h"
+#include "BMP180/BMP180.h"
 
 
 extern I2C_HandleTypeDef hi2c2;
